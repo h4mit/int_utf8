@@ -1,13 +1,10 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: H4mit
+ * User: H4mit (H4mid.Taheri@gmail.com)
  * Date: 19/10/2015
  * Time: 10:38 AM
+ * :) Hii
  */
-
-namespace Zaeim\ContactBundle\Services;
-
 
 class UTF8ToInt
 {
